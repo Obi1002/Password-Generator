@@ -3,7 +3,7 @@
 * [License](#license)
 * [Deployment](#deployment)
 
-<image src="./PasswordGeneratorImage.PNG>
+<img src="./PasswordGeneratorImage.PNG>
 
 Password Generator
  
